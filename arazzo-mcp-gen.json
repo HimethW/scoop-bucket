@@ -1,0 +1,14 @@
+{
+    "version": "0.1.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/HimethW/arazzo-mcp-gen/releases/download/v0.1.2/arazzo-mcp-gen_Windows_x86_64.zip",
+            "bin": [
+                "arazzo-mcp-gen.exe"
+            ],
+            "hash": "96f4266817613c5c206b80b9bda262a3723a58ed0ce99bb64e3d53f28e1056ae"
+        }
+    },
+    "homepage": "https://github.com/HimethW/arazzo-mcp-gen",
+    "description": "A CLI tool to generate MCP servers from Arazzo specifications."
+}
