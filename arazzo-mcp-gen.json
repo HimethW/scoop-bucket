@@ -1,12 +1,12 @@
 {
-    "version": "0.1.5",
+    "version": "0.1.6",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/HimethW/arazzo-mcp-gen/releases/download/v0.1.5/arazzo-mcp-gen_Windows_x86_64.zip",
+            "url": "https://github.com/HimethW/arazzo-mcp-gen/releases/download/v0.1.6/arazzo-mcp-gen_Windows_x86_64.zip",
             "bin": [
                 "arazzo-mcp-gen.exe"
             ],
-            "hash": "d5098db5c1b0b45b4b4e942733f5cc4702b3897d13f8681a8665ff795f0c3d0a"
+            "hash": "a3c1627c29f7d38a8fb822d087771c9d5fccbeded268723c16b7cde06b595ccb"
         }
     },
     "homepage": "https://github.com/HimethW/arazzo-mcp-gen",
